@@ -1,4 +1,4 @@
-# OpenAI API Specification Processor
+# OpenAI OpenAPI Specification Processor
 
 This repository contains a Python script (`process_openai_spec.py`) designed to fetch, parse, and organize various sections of the OpenAI OpenAPI Specification.
 
